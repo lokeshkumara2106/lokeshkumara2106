@@ -1,11 +1,48 @@
 # 💫 About Me:
 
-**B.Tech – Computer Science Engineering Graduate**<br><br>
-Aspiring **Python Developer** passionate about building scalable and impactful applications.<br><br>
-Skilled in **Python, Django, REST APIs, SQL, React, Docker, and Data Structures & Algorithms**.<br><br>
-Currently building real-world projects in **Python development, backend systems, web development, and machine learning**.<br><br>
-Seeking opportunities to work as a **Python Developer** where I can apply my skills, solve real-world problems, and contribute to building reliable software.<br><br>
-Always learning, exploring new technologies, and growing as a **Python Developer and Software Engineer**.<br>
+**B.Tech – Computer Science Engineering Graduate**
+
+Aspiring **Python Developer** passionate about building scalable and impactful applications.
+
+Skilled in **Python, Django, REST APIs, SQL, React, Docker, and Data Structures & Algorithms**.
+
+Currently building real-world projects in **Python development, backend systems, web development, and machine learning**.
+
+Seeking opportunities to work as a **Python Developer** where I can apply my skills, solve real-world problems, and contribute to building reliable software.
+
+Always learning, exploring new technologies, and growing as a **Python Developer and Software Engineer**.
+
+### 🚀 Projects
+
+**🎭 Emotion Detection & Music Recommendation System**
+
+- Built a facial-expression recognition system using **Python, OpenCV, TensorFlow, and Keras**.
+- Detects emotions from facial expressions and recommends music accordingly.
+
+**🚌 BusGo Travels**
+
+- Developed a bus-booking platform using **Django, REST APIs, and React.js**.
+- Implemented bus management, seat selection, bookings, user bookings, and admin functionality.
+
+**🩺 Diabetes Prediction System**
+
+- Built a machine-learning application using **Random Forest** and **Streamlit** to predict diabetes risk.
+
+**🏥 Disease Prediction System**
+
+- Developed a disease prediction application using **Python, Flask, and machine-learning techniques**.
+
+### 📚 What I'm Currently Working On
+
+- Solving **DSA problems** and improving algorithmic problem-solving skills
+- Preparing for **Software Development Engineer (SDE)** roles
+- Learning **System Design and Distributed Systems**
+- Exploring **Docker, Kubernetes, Microservices, and Cloud Architecture**
+- Building practical **Python, backend, and full-stack projects**
+
+### 🎯 Career Goal
+
+My goal is to become a strong **Python Developer and Software Engineer** capable of designing, developing, and scaling reliable software systems.
 
 
 

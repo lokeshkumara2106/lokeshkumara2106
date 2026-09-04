@@ -1,5 +1,12 @@
 # 💫 About Me:
-**B.Tech – Computer Science Engineering Graduate**<br><br>Aspiring Software Engineer passionate about building scalable and impactful applications.<br><br>Skilled in Python, Django, REST APIs, SQL, React, Docker, and Data Structures & Algorithms.<br><br>Currently building real-world projects in web development, backend systems, and machine learning.<br><br>Always learning, exploring new technologies, and growing as a software engineer.<br>
+
+**B.Tech – Computer Science Engineering Graduate**<br><br>
+Aspiring **Python Developer** passionate about building scalable and impactful applications.<br><br>
+Skilled in **Python, Django, REST APIs, SQL, React, Docker, and Data Structures & Algorithms**.<br><br>
+Currently building real-world projects in **Python development, backend systems, web development, and machine learning**.<br><br>
+Seeking opportunities to work as a **Python Developer** where I can apply my skills, solve real-world problems, and contribute to building reliable software.<br><br>
+Always learning, exploring new technologies, and growing as a **Python Developer and Software Engineer**.<br>
+
 
 
 ## 🌐 Socials:
